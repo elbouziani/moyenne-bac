@@ -3,9 +3,10 @@ import './App.css';
 
 function App() {
   return (
-      <div className="container bg-gray-100/20 m-auto h-screen ">
-          <div>
-              <h2 className="text-gray-800 my-4 text-4xl text-center ">حساب معدل الباكالوريا</h2>
+      <div className=" bg-gray-100/20 m-auto h-screen ">
+          <div className="py-4">
+
+              <h2 className="text-gray-800 text-4xl text-center ">حساب معدل الباكالوريا بالمغرب </h2>
 
           </div>
           <div className="bg-gray-100 h-full">
